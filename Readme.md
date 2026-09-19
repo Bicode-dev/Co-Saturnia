@@ -32,13 +32,13 @@ aller chercher dans un autre onglet.
 
 *Messages : boîte Atrium et discussions Pronote*
 
-<img src="images/06-securisation-pin.png" width="280" alt="Nouveau en 1.3.0 : feuille « Sécurisation du compte » quand Pronote demande le code PIN">
+<img src="images/06-securisation-pin.png" width="280" alt="feuille « Sécurisation du compte » quand Pronote demande le code PIN">
 
-*Nouveau en 1.3.0 : feuille « Sécurisation du compte » quand Pronote demande le code PIN*
+*feuille « Sécurisation du compte » quand Pronote demande le code PIN*
 
-<img src="images/07-securisation-mode.png" width="280" alt="Nouveau en 1.3.0 : la même feuille quand Pronote demande de choisir le mode de sécurisation">
+<img src="images/07-securisation-mode.png" width="280" alt="la même feuille quand Pronote demande de choisir le mode de sécurisation">
 
-*Nouveau en 1.3.0 : la même feuille quand Pronote demande de choisir le mode de sécurisation*
+*la même feuille quand Pronote demande de choisir le mode de sécurisation*
 
 ---
 
