@@ -12,6 +12,10 @@ aller chercher dans un autre onglet.
 
 ## Aperçu
 
+<img src="images/01-accueil.png" width="280" alt="Accueil : fond d'écran, boutons Messages / Menu / Absences / Actualités, prochains cours et dernières notes">
+
+*Accueil : fond d'écran, boutons Messages / Menu / Absences / Actualités, prochains cours et dernières notes*
+
 <img src="images/02-cours.png" width="280" alt="Cours : un jour par page, cartes de cours et pauses">
 
 *Cours : un jour par page, cartes de cours et pauses*
@@ -27,6 +31,14 @@ aller chercher dans un autre onglet.
 <img src="images/05-messages.png" width="280" alt="Messages : boîte Atrium et discussions Pronote">
 
 *Messages : boîte Atrium et discussions Pronote*
+
+<img src="images/06-securisation-pin.png" width="280" alt="Nouveau en 1.3.0 : feuille « Sécurisation du compte » quand Pronote demande le code PIN">
+
+*Nouveau en 1.3.0 : feuille « Sécurisation du compte » quand Pronote demande le code PIN*
+
+<img src="images/07-securisation-mode.png" width="280" alt="Nouveau en 1.3.0 : la même feuille quand Pronote demande de choisir le mode de sécurisation">
+
+*Nouveau en 1.3.0 : la même feuille quand Pronote demande de choisir le mode de sécurisation*
 
 ---
 
