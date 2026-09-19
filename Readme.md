@@ -10,6 +10,26 @@ aller chercher dans un autre onglet.
 
 ---
 
+## Aperçu
+
+<img src="images/02-cours.png" width="280" alt="Cours : un jour par page, cartes de cours et pauses">
+
+*Cours : un jour par page, cartes de cours et pauses*
+
+<img src="images/03-taches.png" width="280" alt="Tâches : la semaine, progression et pilule « Terminé »">
+
+*Tâches : la semaine, progression et pilule « Terminé »*
+
+<img src="images/04-notes-sombre.png" width="280" alt="Notes en mode sombre : moyennes, dernières notes, sections par matière">
+
+*Notes en mode sombre : moyennes, dernières notes, sections par matière*
+
+<img src="images/05-messages.png" width="280" alt="Messages : boîte Atrium et discussions Pronote">
+
+*Messages : boîte Atrium et discussions Pronote*
+
+---
+
 ## Ce que ça fait
 
 - **Accueil** — les prochains cours, les dernières notes, et quatre boutons :
